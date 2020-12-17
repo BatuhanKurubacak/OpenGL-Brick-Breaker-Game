@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1579371979 source:c:\users\user\desktop\game\game.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<GL/glut.h>
+	<string>
+	<sstream>
+
+1580313579 source:c:\users\user\desktop\everything else\game\game.cpp
+	<windows.h>
+	<stdio.h>
+	<iostream>
+	<GL/glut.h>
+	<string>
+	<sstream>
+
